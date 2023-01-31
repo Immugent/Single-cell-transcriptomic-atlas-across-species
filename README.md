@@ -1,5 +1,5 @@
 # Single-cell-transcriptomic-atlas-across-species
-This repository contains materials for the paper [**Single-cell sequencing reveals the evolution of immune molecules across multiple vertebrate species**](), ==by Anjun Jiao, Cangang Zhang et al.
+This repository contains materials for the paper [**Single-cell sequencing reveals the evolution of immune molecules across multiple vertebrate species**](), by Anjun Jiao, Cangang Zhang et al.
 
 ## Scripts
 
