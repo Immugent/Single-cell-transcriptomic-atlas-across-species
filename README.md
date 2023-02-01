@@ -7,7 +7,7 @@ This repository contains materials for the paper [**Single-cell sequencing revea
 - *s2.basic_plot.R*: The basic plot (TSNE, Doheatmap, Fraction) for a given cluster. it generates figs. 2b, 2h, 3b, 4f, S1c,  
 - *s3.DEA.R*:  R script for finding genes that differ between two cell types (cell type is the input parameter). It generates data for a heatmap of different genes
 - *s4.enrich.R*: Gene Enrichment for DEGs, Including go, KEGG and C7 enrichment analysis. 
-
+- *s5.Mapping.R*: Mapping other human spleen scRNAseq datasets to our data, and calculate similarity between them.
 
 
 ## Plots
@@ -18,6 +18,7 @@ The scripts and data in this repository can generate almost all figures in the m
 - Supplementary Information: figs. S2, S6-S8
 
 ## Data
+All sequencing data generated in this paper have been deposited at Gene Expression Omnibus, under GSE186158 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186158). Other human spleen datasets used in benchmarking were taken from GSE159929 and PRJEB31843.
 
 The following useful data structures are included in the repository:
 
