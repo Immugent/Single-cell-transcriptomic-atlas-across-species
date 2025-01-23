@@ -1,5 +1,19 @@
 # Single-cell-transcriptomic-atlas-across-species
-This repository contains materials for the paper [**Single-cell sequencing reveals the evolution of immune molecules across multiple vertebrate species**](), by Anjun Jiao, Cangang Zhang et al.
+This code is used for annotating and analyzing single-cell sequencing data derived from the spleen across 7 species.
+## Introduction: 
+Both innate and adaptive immune system undergo evolution from low to high vertebrates.Due to the limitation of conventional approaches in identifying broader spectrum of immune cells and
+molecules from various vertebrates, it remains unclear how immune molecules evolve among vertebrates.
+## Objectives: 
+Here, we utilized carry out comparative transcriptome analysis in various immune cellsacross seven vertebrate species.
+## Methods: 
+Single-cell RNA sequencing (scRNA-seq).
+## Results: 
+We uncovered both conserved and species-specific profiling of gene expression in innate andadaptive immunity. Macrophages exhibited highly-diversified genes and developed sophisticated molecular
+signaling networks along with evolution, indicating effective and versatile functions in higher species.In contrast, B cells conservatively evolved with less differentially-expressed genes in analyzed
+species. Interestingly, T cells represented a dominant immune cell populations in all species and uniqueT cell populations were identified in zebrafish and pig. We also revealed compensatory TCR cascade components utilized by different species. Inter-species comparison of core gene programs demonstratedmouse species has the highest similarity in immune transcriptomes to human.
+#  Conclusions: 
+Therefore, our comparative study reveals gene transcription characteristics across multiplevertebrate species during the evolution of immune system, providing insights for species-specific immunity
+as well as the translation of animal studies to human physiology and disease.
 
 # Scripts
 
