@@ -15,6 +15,8 @@ species. Interestingly, T cells represented a dominant immune cell populations i
 Therefore, our comparative study reveals gene transcription characteristics across multiplevertebrate species during the evolution of immune system, providing insights for species-specific immunity
 as well as the translation of animal studies to human physiology and disease.
 
+![image](https://github.com/user-attachments/assets/6c88ff00-e2bf-449e-867b-5b7599039c67)
+
 # Scripts
 
 - *s1.Integrated-scRNA.R*: Perform analysis of single-cell transcriptome data for all species in the paper, including cell clustering, cell type annotations, and a heatmap of the top30 key genes for each cell typ.  It generates the following figs: 1b-e, S1b, S2 and S3a
@@ -38,10 +40,10 @@ The following useful data structures are included in the repository:
 
 - *cells.txt*: The ID of the filtered cells
 
-# REFERENCE 
+## REFERENCE 
 Please cite this paper if you use our data or code.
 
 Jiao A, Zhang C, Wang X, Sun L, Liu H, Su Y, Lei L, Li W, Ding R, Ding C, Dou M, Tian P, Sun C, Yang X, Zhang L, Zhang B. Single-cell sequencing reveals the evolution of immune molecules across multiple vertebrate species. J Adv Res. 2024 Jan;55:73-87. doi: 10.1016/j.jare.2023.02.017. Epub 2023 Mar 4. PMID: 36871615; PMCID: PMC10770119.
 
-# Contact me
+## Contact me
 Please feel free to contact us at the following email addresses: cg_zhang2021@163.com.
