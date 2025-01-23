@@ -1,7 +1,7 @@
 # Single-cell-transcriptomic-atlas-across-species
 This repository contains materials for the paper [**Single-cell sequencing reveals the evolution of immune molecules across multiple vertebrate species**](), by Anjun Jiao, Cangang Zhang et al.
 
-## Scripts
+# Scripts
 
 - *s1.Integrated-scRNA.R*: Perform analysis of single-cell transcriptome data for all species in the paper, including cell clustering, cell type annotations, and a heatmap of the top30 key genes for each cell typ.  It generates the following figs: 1b-e, S1b, S2 and S3a
 - *s2.basic_plot.R*: The basic plot (TSNE, Doheatmap, Fraction) for a given cluster. it generates figs. 2b, 2h, 3b, 4f, S1c,  
@@ -10,16 +10,24 @@ This repository contains materials for the paper [**Single-cell sequencing revea
 - *s5.Mapping.R*: Mapping other human spleen scRNAseq datasets to our data, and calculate similarity between them.
 
 
-## Plots
+# Plots
 
 The scripts and data in this repository can generate almost all figures in the main text and supplement, as follows:
 
 - Main text: fig.1 (b-e); fig.2 (a-d,f); fig. 3(a-g); fig. 4(a,b,d)
 - Supplementary Information: figs. S2, S6-S8
 
-## Data
+# Data
 All sequencing data generated in this paper have been deposited at Gene Expression Omnibus, under GSE186158 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186158). Other human spleen datasets used in benchmarking were taken from GSE159929 and PRJEB31843.
 
 The following useful data structures are included in the repository:
 
 - *cells.txt*: The ID of the filtered cells
+
+# REFERENCE 
+Please cite this paper if you use our data or code.
+
+Jiao A, Zhang C, Wang X, Sun L, Liu H, Su Y, Lei L, Li W, Ding R, Ding C, Dou M, Tian P, Sun C, Yang X, Zhang L, Zhang B. Single-cell sequencing reveals the evolution of immune molecules across multiple vertebrate species. J Adv Res. 2024 Jan;55:73-87. doi: 10.1016/j.jare.2023.02.017. Epub 2023 Mar 4. PMID: 36871615; PMCID: PMC10770119.
+
+# Contact me
+Please feel free to contact us at the following email addresses: cg_zhang2021@163.com.
