@@ -11,7 +11,7 @@ Single-cell RNA sequencing (scRNA-seq).
 We uncovered both conserved and species-specific profiling of gene expression in innate andadaptive immunity. Macrophages exhibited highly-diversified genes and developed sophisticated molecular
 signaling networks along with evolution, indicating effective and versatile functions in higher species.In contrast, B cells conservatively evolved with less differentially-expressed genes in analyzed
 species. Interestingly, T cells represented a dominant immune cell populations in all species and uniqueT cell populations were identified in zebrafish and pig. We also revealed compensatory TCR cascade components utilized by different species. Inter-species comparison of core gene programs demonstratedmouse species has the highest similarity in immune transcriptomes to human.
-#  Conclusions: 
+## Conclusions: 
 Therefore, our comparative study reveals gene transcription characteristics across multiplevertebrate species during the evolution of immune system, providing insights for species-specific immunity
 as well as the translation of animal studies to human physiology and disease.
 
